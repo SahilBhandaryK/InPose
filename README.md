@@ -29,25 +29,25 @@ This is the official implementation of the ICLR 2026 paper: Zero-shot Human Pose
 - You also need to download the SMPL model files.
 - Your downloaded AMASS dataset and SMPL models folders should look as follows:
   
-  .
-├── data/
-│   ├── dataset_raw/
-│   │   └── AMASS
-│   │   │   └── HumanEva/
-│   │   │   └── Transitions_mocap/
-├── support_data/
-│   ├── body_models/
-│   │   └── smplh/
-│   │   │   └── male/
-│   │   │   │   └── model.npz
-│   │   │   └── female/
-│   │   │   │   └── model.npz
-│   │   └── dmpls/
-│   │   │   └── male/
-│   │   │   │   └── model.npz
-│   │   │   └── female/
-│   │   │   │   └── model.npz
-└── README.md
+  .<br>
+├── data/<br>
+│   ├── dataset_raw/<br>
+│   │   └── AMASS<br>
+│   │   │   └── HumanEva/<br>
+│   │   │   └── Transitions_mocap/<br>
+├── support_data/<br>
+│   ├── body_models/<br>
+│   │   └── smplh/<br>
+│   │   │   └── male/<br>
+│   │   │   │   └── model.npz<br>
+│   │   │   └── female/<br>
+│   │   │   │   └── model.npz<br>
+│   │   └── dmpls/<br>
+│   │   │   └── male/<br>
+│   │   │   │   └── model.npz<br>
+│   │   │   └── female/<br>
+│   │   │   │   └── model.npz<br>
+└── README.md<br>
 
 - Run the following scipt to convert the AMASS data to the required form:
 
