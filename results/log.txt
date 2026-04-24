@@ -1,0 +1,82 @@
+Logging to results
+creating BoDiffusion...
+sampling...
+Evaluating 1 times per timestep
+Done evaluation [1] | Steps [49] | Time [8.03599]
+===========================================================================
+Finished evaluation
+++++++++++++++++++++++++++++++++++++++++++++++++++
+For #steps = 49
+Average rotational error [degree]: 4.92630
+Average rotational error (hands and head) [degree]: 4.65917
+Average positional error [cm]: 7.34113
+Average velocity error [cm/s]: 27.49487
+Average positional error at hands [cm]: 1.91640
+Average positional error at upper [cm]: 2.53677
+Average positional error at lower [cm]: 15.34019
+Average positional error at pelvis [cm]: 5.80537
+Done evaluation [1] | Steps [49] | Time [7.55773]
+===========================================================================
+Finished evaluation
+++++++++++++++++++++++++++++++++++++++++++++++++++
+For #steps = 49
+Average rotational error [degree]: 4.92310
+Average rotational error (hands and head) [degree]: 5.22901
+Average positional error [cm]: 6.54643
+Average velocity error [cm/s]: 25.86472
+Average positional error at hands [cm]: 1.81834
+Average positional error at upper [cm]: 2.31068
+Average positional error at lower [cm]: 13.69232
+Average positional error at pelvis [cm]: 4.44416
+Done evaluation [1] | Steps [49] | Time [7.46753]
+===========================================================================
+Finished evaluation
+++++++++++++++++++++++++++++++++++++++++++++++++++
+For #steps = 49
+Average rotational error [degree]: 5.11195
+Average rotational error (hands and head) [degree]: 4.36712
+Average positional error [cm]: 8.42265
+Average velocity error [cm/s]: 29.91477
+Average positional error at hands [cm]: 2.09214
+Average positional error at upper [cm]: 2.96659
+Average positional error at lower [cm]: 17.35904
+Average positional error at pelvis [cm]: 7.86017
+Done evaluation [1] | Steps [49] | Time [4.66559]
+===========================================================================
+Finished evaluation
+++++++++++++++++++++++++++++++++++++++++++++++++++
+For #steps = 49
+Average rotational error [degree]: 5.23790
+Average rotational error (hands and head) [degree]: 5.16979
+Average positional error [cm]: 8.22010
+Average velocity error [cm/s]: 23.12693
+Average positional error at hands [cm]: 0.84903
+Average positional error at upper [cm]: 2.60261
+Average positional error at lower [cm]: 17.73934
+Average positional error at pelvis [cm]: 5.09347
+Done evaluation [1] | Steps [49] | Time [4.67010]
+===========================================================================
+Finished evaluation
+++++++++++++++++++++++++++++++++++++++++++++++++++
+For #steps = 49
+Average rotational error [degree]: 5.73649
+Average rotational error (hands and head) [degree]: 7.02597
+Average positional error [cm]: 9.20697
+Average velocity error [cm/s]: 22.96136
+Average positional error at hands [cm]: 5.42481
+Average positional error at upper [cm]: 3.79181
+Average positional error at lower [cm]: 18.34868
+Average positional error at pelvis [cm]: 6.47039
+Done evaluation [1] | Steps [49] | Time [4.78383]
+===========================================================================
+Finished evaluation
+++++++++++++++++++++++++++++++++++++++++++++++++++
+For #steps = 49
+Average rotational error [degree]: 6.30665
+Average rotational error (hands and head) [degree]: 7.42003
+Average positional error [cm]: 9.67654
+Average velocity error [cm/s]: 28.09228
+Average positional error at hands [cm]: 8.34090
+Average positional error at upper [cm]: 4.66640
+Average positional error at lower [cm]: 18.23580
+Average positional error at pelvis [cm]: 6.33435

@@ -1,0 +1,72 @@
+26-04-23 20:20:48.215 : Average errors for iter 0 steps 49
+26-04-23 20:20:48.215 : Average rotational error [degree]: 4.54518, H+Hs rotational error [degree]: 4.95526, Average positional error [cm]: 7.03568, Average velocity error [cm/s]: 26.73105, Average positional error at hand [cm]: 1.93285, Avpos error at upper [cm]: 2.59522, Avpos error at lower [cm]: 14.39492, Avpos error at pelvis [cm]: 5.88785
+
+26-04-23 20:20:50.007 : Average errors for iter 0 steps 49
+26-04-23 20:20:50.007 : Average rotational error [degree]: 4.91568, H+Hs rotational error [degree]: 4.92617, Average positional error [cm]: 7.25952, Average velocity error [cm/s]: 26.90586, Average positional error at hand [cm]: 1.94963, Avpos error at upper [cm]: 2.61585, Avpos error at lower [cm]: 15.01167, Avpos error at pelvis [cm]: 5.61005
+
+26-04-23 20:20:51.702 : Average errors for iter 0 steps 49
+26-04-23 20:20:51.702 : Average rotational error [degree]: 4.97307, H+Hs rotational error [degree]: 4.72486, Average positional error [cm]: 7.32568, Average velocity error [cm/s]: 27.49563, Average positional error at hand [cm]: 1.95978, Avpos error at upper [cm]: 2.59450, Avpos error at lower [cm]: 15.19351, Avpos error at pelvis [cm]: 5.88846
+
+26-04-23 20:20:53.887 : Average errors for iter 0 steps 49
+26-04-23 20:20:53.887 : Average rotational error [degree]: 4.92630, H+Hs rotational error [degree]: 4.65917, Average positional error [cm]: 7.34113, Average velocity error [cm/s]: 27.49487, Average positional error at hand [cm]: 1.91640, Avpos error at upper [cm]: 2.53677, Avpos error at lower [cm]: 15.34019, Avpos error at pelvis [cm]: 5.80537
+
+26-04-23 20:20:55.869 : Average errors for iter 0 steps 49
+26-04-23 20:20:55.869 : Average rotational error [degree]: 4.59121, H+Hs rotational error [degree]: 5.29386, Average positional error [cm]: 6.40520, Average velocity error [cm/s]: 24.83504, Average positional error at hand [cm]: 1.83511, Avpos error at upper [cm]: 2.41835, Avpos error at lower [cm]: 13.04532, Avpos error at pelvis [cm]: 5.11332
+
+26-04-23 20:20:57.543 : Average errors for iter 0 steps 49
+26-04-23 20:20:57.543 : Average rotational error [degree]: 4.90701, H+Hs rotational error [degree]: 5.40677, Average positional error [cm]: 6.58567, Average velocity error [cm/s]: 25.14395, Average positional error at hand [cm]: 1.86271, Avpos error at upper [cm]: 2.41349, Avpos error at lower [cm]: 13.61874, Avpos error at pelvis [cm]: 4.55942
+
+26-04-23 20:20:59.206 : Average errors for iter 0 steps 49
+26-04-23 20:20:59.206 : Average rotational error [degree]: 4.92540, H+Hs rotational error [degree]: 5.18441, Average positional error [cm]: 6.52089, Average velocity error [cm/s]: 25.66416, Average positional error at hand [cm]: 1.85884, Avpos error at upper [cm]: 2.35966, Avpos error at lower [cm]: 13.50660, Avpos error at pelvis [cm]: 4.73119
+
+26-04-23 20:21:01.457 : Average errors for iter 0 steps 49
+26-04-23 20:21:01.457 : Average rotational error [degree]: 4.92310, H+Hs rotational error [degree]: 5.22901, Average positional error [cm]: 6.54643, Average velocity error [cm/s]: 25.86472, Average positional error at hand [cm]: 1.81834, Avpos error at upper [cm]: 2.31068, Avpos error at lower [cm]: 13.69232, Avpos error at pelvis [cm]: 4.44416
+
+26-04-23 20:21:03.396 : Average errors for iter 0 steps 49
+26-04-23 20:21:03.396 : Average rotational error [degree]: 4.69658, H+Hs rotational error [degree]: 4.80430, Average positional error [cm]: 7.91502, Average velocity error [cm/s]: 29.30138, Average positional error at hand [cm]: 2.11392, Avpos error at upper [cm]: 2.96985, Avpos error at lower [cm]: 16.03607, Avpos error at pelvis [cm]: 7.23381
+
+26-04-23 20:21:05.066 : Average errors for iter 0 steps 49
+26-04-23 20:21:05.066 : Average rotational error [degree]: 5.02947, H+Hs rotational error [degree]: 4.58973, Average positional error [cm]: 8.26657, Average velocity error [cm/s]: 29.57224, Average positional error at hand [cm]: 2.11804, Avpos error at upper [cm]: 3.01134, Avpos error at lower [cm]: 16.91509, Avpos error at pelvis [cm]: 7.39632
+
+26-04-23 20:21:06.761 : Average errors for iter 0 steps 49
+26-04-23 20:21:06.761 : Average rotational error [degree]: 5.13524, H+Hs rotational error [degree]: 4.45091, Average positional error [cm]: 8.38049, Average velocity error [cm/s]: 30.11970, Average positional error at hand [cm]: 2.13985, Avpos error at upper [cm]: 2.99752, Avpos error at lower [cm]: 17.21925, Avpos error at pelvis [cm]: 7.64904
+
+26-04-23 20:21:08.930 : Average errors for iter 0 steps 49
+26-04-23 20:21:08.931 : Average rotational error [degree]: 5.11195, H+Hs rotational error [degree]: 4.36712, Average positional error [cm]: 8.42265, Average velocity error [cm/s]: 29.91477, Average positional error at hand [cm]: 2.09214, Avpos error at upper [cm]: 2.96659, Avpos error at lower [cm]: 17.35904, Avpos error at pelvis [cm]: 7.86017
+
+26-04-23 20:21:10.194 : Average errors for iter 0 steps 49
+26-04-23 20:21:10.195 : Average rotational error [degree]: 5.02575, H+Hs rotational error [degree]: 4.88954, Average positional error [cm]: 8.52683, Average velocity error [cm/s]: 22.24546, Average positional error at hand [cm]: 0.94972, Avpos error at upper [cm]: 2.72028, Avpos error at lower [cm]: 18.27788, Avpos error at pelvis [cm]: 6.00353
+
+26-04-23 20:21:11.154 : Average errors for iter 0 steps 49
+26-04-23 20:21:11.154 : Average rotational error [degree]: 5.16935, H+Hs rotational error [degree]: 5.13249, Average positional error [cm]: 8.17500, Average velocity error [cm/s]: 22.87141, Average positional error at hand [cm]: 0.88997, Avpos error at upper [cm]: 2.69733, Avpos error at lower [cm]: 17.43024, Avpos error at pelvis [cm]: 5.34280
+
+26-04-23 20:21:12.201 : Average errors for iter 0 steps 49
+26-04-23 20:21:12.202 : Average rotational error [degree]: 5.30018, H+Hs rotational error [degree]: 5.23510, Average positional error [cm]: 8.44065, Average velocity error [cm/s]: 23.59960, Average positional error at hand [cm]: 0.87984, Avpos error at upper [cm]: 2.73902, Avpos error at lower [cm]: 18.06436, Avpos error at pelvis [cm]: 5.57213
+
+26-04-23 20:21:13.608 : Average errors for iter 0 steps 49
+26-04-23 20:21:13.608 : Average rotational error [degree]: 5.23790, H+Hs rotational error [degree]: 5.16979, Average positional error [cm]: 8.22010, Average velocity error [cm/s]: 23.12693, Average positional error at hand [cm]: 0.84903, Avpos error at upper [cm]: 2.60261, Avpos error at lower [cm]: 17.73934, Avpos error at pelvis [cm]: 5.09347
+
+26-04-23 20:21:14.855 : Average errors for iter 0 steps 49
+26-04-23 20:21:14.855 : Average rotational error [degree]: 5.65430, H+Hs rotational error [degree]: 6.66626, Average positional error [cm]: 9.18827, Average velocity error [cm/s]: 21.22893, Average positional error at hand [cm]: 5.18850, Avpos error at upper [cm]: 3.50838, Avpos error at lower [cm]: 18.83197, Avpos error at pelvis [cm]: 5.87740
+
+26-04-23 20:21:15.848 : Average errors for iter 0 steps 49
+26-04-23 20:21:15.849 : Average rotational error [degree]: 5.61442, H+Hs rotational error [degree]: 6.88998, Average positional error [cm]: 8.97715, Average velocity error [cm/s]: 22.39215, Average positional error at hand [cm]: 5.25486, Avpos error at upper [cm]: 3.68345, Avpos error at lower [cm]: 17.93416, Avpos error at pelvis [cm]: 6.13912
+
+26-04-23 20:21:16.839 : Average errors for iter 0 steps 49
+26-04-23 20:21:16.839 : Average rotational error [degree]: 5.82170, H+Hs rotational error [degree]: 7.02939, Average positional error [cm]: 9.17683, Average velocity error [cm/s]: 23.23914, Average positional error at hand [cm]: 5.28079, Avpos error at upper [cm]: 3.71155, Avpos error at lower [cm]: 18.42630, Avpos error at pelvis [cm]: 6.22968
+
+26-04-23 20:21:18.284 : Average errors for iter 0 steps 49
+26-04-23 20:21:18.284 : Average rotational error [degree]: 5.73649, H+Hs rotational error [degree]: 7.02597, Average positional error [cm]: 9.20697, Average velocity error [cm/s]: 22.96136, Average positional error at hand [cm]: 5.42481, Avpos error at upper [cm]: 3.79181, Avpos error at lower [cm]: 18.34868, Avpos error at pelvis [cm]: 6.47039
+
+26-04-23 20:21:19.570 : Average errors for iter 0 steps 49
+26-04-23 20:21:19.570 : Average rotational error [degree]: 6.01558, H+Hs rotational error [degree]: 7.05170, Average positional error [cm]: 10.21809, Average velocity error [cm/s]: 28.55670, Average positional error at hand [cm]: 8.28152, Avpos error at upper [cm]: 5.10608, Avpos error at lower [cm]: 18.81936, Avpos error at pelvis [cm]: 7.86413
+
+26-04-23 20:21:20.636 : Average errors for iter 0 steps 49
+26-04-23 20:21:20.636 : Average rotational error [degree]: 6.24147, H+Hs rotational error [degree]: 7.34284, Average positional error [cm]: 9.74785, Average velocity error [cm/s]: 28.40217, Average positional error at hand [cm]: 8.13277, Avpos error at upper [cm]: 4.86862, Avpos error at lower [cm]: 18.04279, Avpos error at pelvis [cm]: 6.81835
+
+26-04-23 20:21:21.615 : Average errors for iter 0 steps 49
+26-04-23 20:21:21.615 : Average rotational error [degree]: 6.28068, H+Hs rotational error [degree]: 7.35604, Average positional error [cm]: 9.96901, Average velocity error [cm/s]: 28.77895, Average positional error at hand [cm]: 8.19134, Avpos error at upper [cm]: 4.83261, Avpos error at lower [cm]: 18.69217, Avpos error at pelvis [cm]: 6.95699
+
+26-04-23 20:21:23.071 : Average errors for iter 0 steps 49
+26-04-23 20:21:23.071 : Average rotational error [degree]: 6.30665, H+Hs rotational error [degree]: 7.42003, Average positional error [cm]: 9.67654, Average velocity error [cm/s]: 28.09228, Average positional error at hand [cm]: 8.34090, Avpos error at upper [cm]: 4.66640, Avpos error at lower [cm]: 18.23580, Avpos error at pelvis [cm]: 6.33435
+
